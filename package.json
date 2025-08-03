@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "copy-to-clipboard": "^3.3.3",
     "modern-normalize": "^3.0.1",
     "react": "^19.1.0",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^19.1.0",
     "sass": "^1.89.2"
   },
